@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/dwc-countries.t
+lib/DwC/Plugin/Countries.pm
